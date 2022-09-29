@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Relative Siar</string>
+    <string-array name="arr_nama">
+        <item>Koyori</item>
+        <item>Fubuki</item>
+        <item>Miko</item>
+        <item>Azki</item>
+        <item>Botan</item>
+    </string-array>
 </resources>
